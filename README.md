@@ -117,3 +117,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - [GitHub](https://github.com/Md-Emon-Hasan)
   - [LinkedIn](https://www.linkedin.com/in/md-emon-hasan-695483237/)
   - [Email](iconicemon01@gmail.com)
+  - [Facebook](https://www.facebook.com/mdemon.hasan2001/)
+  - [Whatsapp](01834363533)
