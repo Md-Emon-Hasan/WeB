@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the README with an added "Objective" section:
-
----
-
 # Corporate Business Website
 
 Welcome to the **Corporate Business Website** repository. This project presents a professional, responsive website designed for corporate businesses.
@@ -119,9 +115,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Md Emon Hasan**
   - [GitHub](https://github.com/Md-Emon-Hasan)
-  - [LinkedIn](https://www.linkedin.com/in/md-emon-hasan)
-  - [Email](mailto:your.email@example.com)
-
----
-
-Feel free to customize this README further to suit your project's specifics and add any additional details that might be relevant.
+  - [LinkedIn](https://www.linkedin.com/in/md-emon-hasan-695483237/)
+  - [Email](iconicemon01@gmail.com)
