@@ -1,7 +1,3 @@
-Certainly! Here's the updated section with your information included:
-
----
-
 # Corporate Business Website
 
 Welcome to the **Corporate Business Website** repository. This project presents a professional, responsive website designed for corporate businesses.
